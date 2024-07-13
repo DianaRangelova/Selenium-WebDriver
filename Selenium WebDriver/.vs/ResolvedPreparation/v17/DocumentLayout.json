@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\ResolvedPreparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|c:\\users\\pc\\desktop\\resolvedpreparation\\workingwithwebtables\\tabletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|solutionrelative:workingwithwebtables\\tabletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|c:\\users\\pc\\desktop\\resolvedpreparation\\workingwithwebtables\\testdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|solutionrelative:workingwithwebtables\\testdatagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|c:\\users\\pc\\desktop\\resolvedpreparation\\workingwithwebtables\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D44E19C8-761D-4E5C-BFF7-2BEECA3F1960}|WorkingWithWebTables\\WorkingWithWebTables.csproj|solutionrelative:workingwithwebtables\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ResolvedPreparation\\WorkingWithWebTables\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "WorkingWithWebTables\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ResolvedPreparation\\WorkingWithWebTables\\GlobalUsings.cs",
+              "RelativeToolTip": "WorkingWithWebTables\\GlobalUsings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:10:17.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestDataGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ResolvedPreparation\\WorkingWithWebTables\\TestDataGenerator.cs",
+              "RelativeDocumentMoniker": "WorkingWithWebTables\\TestDataGenerator.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ResolvedPreparation\\WorkingWithWebTables\\TestDataGenerator.cs",
+              "RelativeToolTip": "WorkingWithWebTables\\TestDataGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:10:14.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TableTests.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\ResolvedPreparation\\WorkingWithWebTables\\TableTests.cs",
+              "RelativeDocumentMoniker": "WorkingWithWebTables\\TableTests.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\ResolvedPreparation\\WorkingWithWebTables\\TableTests.cs",
+              "RelativeToolTip": "WorkingWithWebTables\\TableTests.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T15:10:11.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
